@@ -1,6 +1,6 @@
 # Time tracking App for android and ios
 
-![alt text](https://github.com/viktorseidl/zfpaold/blob/main/ZFAAPP/ZFAAPP/ZFAAPP/Images/show.png "Logo Title Text 1")
+![alt text](https://github.com/viktorseidl/Xamarin-TimeTracking-App/blob/main/IMAGES/mokupsdark.png "Mockup")
 
 ## Description
 
@@ -14,8 +14,6 @@ The requirements of the prototype were:
 - [x] Login with personalized QR-code
 - [x] Forgot password function
 - [x] Come and go function
-- [x] Vacation planner function
-- [x] Tabular calendar view of the duty roster and holiday planning
 - [x] QR-code creation
 - [x] Formatting of the 20 year old main database must be preserved
 
@@ -41,3 +39,13 @@ The following NuGet packages were used within the application:
 - [x] xamarin.essentials.1.7.0 (The MIT License (MIT))
 - [x] zxing.net.mobile.2.4.1 (The MIT License (MIT))
 - [x] zxing.net.mobile.forms.2.4.1 (The MIT License (MIT))
+
+## Diagrams
+
+### Use Case Diagram
+
+![alt text](https://github.com/viktorseidl/Xamarin-TimeTracking-App/blob/main/IMAGES/ablauf.png "Use Case Diagram")
+
+### Component Diagram
+
+![alt text](https://github.com/viktorseidl/Xamarin-TimeTracking-App/blob/main/IMAGES/komponentendiagram.png "Component Diagram")
