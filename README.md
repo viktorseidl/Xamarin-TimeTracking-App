@@ -12,7 +12,6 @@ The requirements of the prototype were:
 
 - [x] Login with chip-nr and password
 - [x] Login with personalized QR-code
-- [x] Forgot password function
 - [x] Come and go function
 - [x] QR-code creation
 - [x] Formatting of the 20 year old main database must be preserved
