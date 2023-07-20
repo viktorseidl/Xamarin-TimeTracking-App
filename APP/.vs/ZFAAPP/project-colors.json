@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e990b7de-35d8-4adb-99fc-25ca94fd85e8": {
+      "ProjectGuid": "e990b7de-35d8-4adb-99fc-25ca94fd85e8",
+      "DisplayName": "ZFAAPP.Android",
+      "ColorIndex": 0
+    },
+    "2ad947ad-1e43-4204-9caf-f30f79991283": {
+      "ProjectGuid": "2ad947ad-1e43-4204-9caf-f30f79991283",
+      "DisplayName": "ZFAAPP",
+      "ColorIndex": 1
+    },
+    "afba85b3-0723-4285-8f36-98a62a4738ba": {
+      "ProjectGuid": "afba85b3-0723-4285-8f36-98a62a4738ba",
+      "DisplayName": "ZFAAPP.Tests",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

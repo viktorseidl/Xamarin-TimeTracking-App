@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "MNEE+bfTrc25X8AeankBFONZAc/0zS1uF4TRB6NnAAhyjeu4XlhXK1M5xfkuR5fpezZA4Z9B4SA4bWA1xPZyvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CC-Student\\Documents\\PROJEKTE\\csharp\\BZFA\\BZFA\\zfpaold\\ZFAAPP\\ZFAAPP\\ZFAAPP\\ZFAAPP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CC-Student\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\CC-Student\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\CC-Student\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\CC-Student\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\CC-Student\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\CC-Student\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512",
+    "C:\\Users\\CC-Student\\.nuget\\packages\\zxing.net.mobile\\2.4.1\\zxing.net.mobile.2.4.1.nupkg.sha512",
+    "C:\\Users\\CC-Student\\.nuget\\packages\\zxing.net.mobile.forms\\2.4.1\\zxing.net.mobile.forms.2.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}
