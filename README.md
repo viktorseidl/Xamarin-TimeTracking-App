@@ -1,6 +1,6 @@
-# Time tracking application for android and ios  
-![alt text](https://github.com/viktorseidl/zfpaold/blob/main/ZFAAPP/ZFAAPP/ZFAAPP/Images/show.png "Logo Title Text 1")
+# Time tracking App for android and ios
 
+![alt text](https://github.com/viktorseidl/zfpaold/blob/main/ZFAAPP/ZFAAPP/ZFAAPP/Images/show.png "Logo Title Text 1")
 
 ## Description
 
@@ -11,7 +11,7 @@ This version is a prototype of a time tracking application. This app was develop
 The requirements of the prototype were:
 
 - [x] Login with chip-nr and password
-- [x] Login with personalized QR-code 
+- [x] Login with personalized QR-code
 - [x] Forgot password function
 - [x] Come and go function
 - [x] Vacation planner function
@@ -27,7 +27,8 @@ As an additional safeguard against SQL injections, all queries are controlled us
 
 1. When querying the database, the employee ID + password was hashed using the SHA256 hash function.
 2. The REST API would use the MD5 hash function and re-encrypt the string.
-3. The database query would then look like this, for example: 
+3. The database query would then look like this, for example:
+
 ```SQL
 "SELECT * FROM TABLE WHERE md5(SHA2(CONCAT(employeeId,password),256)) = :Str LIMIT 1"
 ```
@@ -35,6 +36,7 @@ As an additional safeguard against SQL injections, all queries are controlled us
 ## NuGet Packages
 
 The following NuGet packages were used within the application:
+
 - [x] newtonsoft.json.13.0.1 (The MIT License (MIT))
 - [x] xamarin.essentials.1.7.0 (The MIT License (MIT))
 - [x] zxing.net.mobile.2.4.1 (The MIT License (MIT))
